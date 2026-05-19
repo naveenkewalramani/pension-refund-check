@@ -1,0 +1,38 @@
+export const COUNTRIES = [
+  {
+    id: 'de',
+    name: 'Germany',
+    flag: '🇩🇪',
+    currency: 'EUR',
+    symbol: '€',
+    tagline: 'Pension refund (Rentenerstattung)',
+    description: 'Claim back employee pension contributions paid into the German state pension system.',
+  },
+  {
+    id: 'uk',
+    name: 'United Kingdom',
+    flag: '🇬🇧',
+    currency: 'GBP',
+    symbol: '£',
+    tagline: 'Workplace pension short service refund',
+    description: 'Reclaim contributions from UK workplace pension schemes with short membership.',
+  },
+  {
+    id: 'nl',
+    name: 'Netherlands',
+    flag: '🇳🇱',
+    currency: 'EUR',
+    symbol: '€',
+    tagline: 'Occupational pension refund',
+    description: 'Recover contributions from Dutch occupational pension schemes after leaving.',
+  },
+  {
+    id: 'ch',
+    name: 'Switzerland',
+    flag: '🇨🇭',
+    currency: 'CHF',
+    symbol: 'CHF ',
+    tagline: 'AHV + Pillar 2 (BVG) refund',
+    description: 'Claim AHV first-pillar contributions and your occupational Pillar 2 lump sum.',
+  },
+]
