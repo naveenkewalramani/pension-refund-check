@@ -94,7 +94,7 @@ export default function App() {
         )}
       </main>
       <footer className="text-center text-xs text-gray-400 py-6 border-t border-gray-100">
-        © {new Date().getFullYear()} PensionRefund.io · For information purposes only · Not financial advice
+        © {new Date().getFullYear()} naveenkewalramani.github.io · For information purposes only · Not financial advice
       </footer>
     </div>
   )
